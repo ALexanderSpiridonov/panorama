@@ -26,16 +26,16 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": 2.5969730365762675,
-          "pitch": 0.10022737943106996,
+          "yaw": -0.5889809552754883,
+          "pitch": 0.0637123033930429,
           "rotation": 0,
-          "target": "1-family-space"
+          "target": "2-entrance_counter"
         },
         {
-          "yaw": -0.6192694940571979,
-          "pitch": 0.06320345182590259,
+          "yaw": 2.572587140650443,
+          "pitch": 0.0742548154121927,
           "rotation": 0,
-          "target": "2-counter"
+          "target": "1-family-space"
         }
       ],
       "infoHotspots": []
@@ -66,8 +66,8 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": 0.485110157767064,
-          "pitch": 0.013754657195164555,
+          "yaw": 0.43429418786943685,
+          "pitch": 0.013299214760603917,
           "rotation": 0,
           "target": "0-common-space"
         }
@@ -75,8 +75,8 @@ var APP_DATA = {
       "infoHotspots": []
     },
     {
-      "id": "2-counter",
-      "name": "counter",
+      "id": "2-entrance_counter",
+      "name": "entrance_counter",
       "levels": [
         {
           "tileSize": 256,
@@ -100,8 +100,8 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": 1.720121278265358,
-          "pitch": 0.09451884104714736,
+          "yaw": 1.6206901191830916,
+          "pitch": 0.15501701670286927,
           "rotation": 0,
           "target": "0-common-space"
         }
@@ -113,7 +113,7 @@ var APP_DATA = {
   "settings": {
     "mouseViewMode": "drag",
     "autorotateEnabled": true,
-    "fullscreenButton": true,
+    "fullscreenButton": false,
     "viewControlButtons": false
   }
 };
